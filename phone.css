@@ -1,0 +1,218 @@
+
+
+@media only screen and (max-width:360px) {
+    nav{
+        flex-direction: column;
+        
+    }
+    .nav-menu li{
+        display: flex;
+        justify-content:center;
+        flex-wrap: wrap;
+        
+    
+    }
+    .nav-menu li a{
+        font-size: 15px;
+        margin-left: 20px;
+        }
+    .logo{
+        text-align: center;
+    }
+    .header-title-1{
+        display: flex;
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 18px;
+
+    }
+    header{
+        height: 410px;
+        
+    }
+
+    .header-title-2{
+        text-align: center;
+        font-size: 22px;
+        color:yellow;
+        font-family: 'Oswald', sans-serif;
+
+    }
+    .header-cta-button{
+        margin: 20px auto;
+        display: block;
+        text-align: left;
+        margin: 2px 65px;
+        text-align: center;
+        
+    }
+    #discover-section {
+        flex-direction: column;
+        justify-content: flex-start;
+        height: 1300px;
+
+    }
+    .food-item-1{
+    margin-top: -12px;
+    }
+    #h2-sp{
+        font-size: 1.5rem;
+    }
+    #h1-sp{
+        font-size: 1.5rem;
+    } 
+    .OS::before {
+        height: 1300px;
+    }
+    
+.center{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+
+/*SPECIAL MENU*/
+
+
+.container {
+    flex-direction: column;
+    height: 1850px;
+}
+.special-menu-h1 {
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+.col-large-1 img{
+    margin:auto;
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-top: 20px;
+    
+}
+.col-large-3 img{
+    margin:auto;
+    width: 30px;
+    height: 30px;
+    margin-top: 25px;
+    display: block;
+    
+
+}
+.col-small-1 img{
+    margin:auto;
+    width: 30px;
+    height: 30px;
+    display: block;
+    
+
+}
+/*OUR MENU*/
+.our-menu-section::before {
+    height: 1100px;
+}
+
+.our-menu-h1{
+    font-size: 2rem;
+    margin-bottom: 15px;
+
+}
+.our-menu-button{
+    margin: 10px;
+}
+
+.booking-table-section {
+    height: 600px;
+    margin-top: 37px;
+}
+
+
+
+/*********** special menu********************/
+.container {
+    width: 100%;
+    
+
+}
+.special-menu-h1{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+.special-menu-h2{
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+/**********OUR MENU SECTION***********/
+.our-menu-row{
+    display: flex;
+    justify-content: center;
+    flex: wrap;
+    
+}
+.food-container{
+    font-size: 15px;
+    text-align: center;
+}
+.our-menu-h1 {
+    font-size: 1.5rem;
+}
+.our-menu-h2{
+    font-size: 1.5rem;
+}
+.our-menu-button {
+    font-size: 15px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 30px;
+    
+    font-family: 'Oswald', sans-serif;
+}
+
+/**********BOOKING TABLE **********/
+.booking-table-h1{
+    font-size: 1.5rem;
+}
+.booking-table-h2{
+    font-size: 1.5rem;
+}
+.booking-div {
+    margin: 15px;
+}
+
+/********** FOOTER**************/
+
+
+.footer-row{
+    display: flex;
+    justify-content: center;
+}
+
+
+}
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
